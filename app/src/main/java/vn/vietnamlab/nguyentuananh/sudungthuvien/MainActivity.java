@@ -1,5 +1,7 @@
 package vn.vietnamlab.nguyentuananh.sudungthuvien;
 
+import android.app.SearchManager;
+import android.content.Context;
 import android.content.res.Configuration;
 import android.content.res.TypedArray;
 import android.os.AsyncTask;
@@ -7,15 +9,23 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.text.Html;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.inputmethod.EditorInfo;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
+import android.widget.EditText;
 import android.widget.ListView;
+import android.widget.SearchView;
+import android.widget.TextView;
 
 
 import com.handmark.pulltorefresh.library.PullToRefreshBase;
@@ -33,6 +43,11 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
     PullToRefreshListView pullToRefreshView;
     private TrackAdapter mAdapter;
+    private SearchView searchView;
+
+    private MenuItem mSearchAction;
+    private boolean isSearchOpened = false;
+    private EditText edtSeach;
 
     // Toolbar
     private Toolbar mToolbar;
@@ -45,6 +60,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        new GetDataTask().execute("dj");
         //mtoolbar
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -75,7 +91,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         pullToRefreshView.setOnRefreshListener(new OnRefreshListener<ListView>() {
             @Override
             public void onRefresh(PullToRefreshBase<ListView> refreshView) {
-                new GetDataTask().execute();
+                new GetDataTask().execute("pop");
             }
         });
     }
@@ -163,10 +179,11 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         return result;
     }
 
-    private class GetDataTask extends AsyncTask<Void, Void, String[]> {
+    private class GetDataTask extends AsyncTask<String, Void, String[]> {
         private ArrayList<TrackObject> mListNewTrackObjects ;
+
         @Override
-        protected String[] doInBackground(Void... params) {
+        protected String[] doInBackground(String... keyword) {
             //Download data json from url
             StringBuilder mStringBuilder = new StringBuilder();
             String strResponse = null;
@@ -175,7 +192,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             mStringBuilder.append("tracks");
             mStringBuilder.append(".json");
             mStringBuilder.append("?client_id=4257a69ec80f003d3078b4f1917b642b");
-            mStringBuilder.append(String.format("&q=%1$s", "pop"));
+            mStringBuilder.append(String.format("&q=%1$s", keyword));
             mStringBuilder.append(String.format("&offset=%1$s&limit=%2$s", String.valueOf(0), String.valueOf(100)));
 
             String url = mStringBuilder.toString();
@@ -234,10 +251,18 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     }
 
     @Override
+    public boolean onPrepareOptionsMenu(Menu menu) {
+        mSearchAction = menu.findItem(R.id.action_search);
+        return super.onPrepareOptionsMenu(menu);
+    }
+
+    @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
+    
+    
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -245,6 +270,60 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         if (id == R.id.action_settings) {
             return true;
         }
+
+        switch (id) {
+            case R.id.action_settings:
+                return true;
+            case R.id.action_search:
+                handleMenuSearch();
+                return true;
+        }
         return super.onOptionsItemSelected(item);
+    }
+
+    protected void handleMenuSearch() {
+        ActionBar action = getSupportActionBar();
+        if(isSearchOpened){
+            action.setDisplayShowCustomEnabled(false);
+            action.setDisplayShowTitleEnabled(true);
+
+            InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+            imm.hideSoftInputFromWindow(edtSeach.getWindowToken(), 0);
+            mSearchAction.setIcon(getResources().getDrawable(R.drawable.ic_action_search));
+            isSearchOpened = false;
+        } else {
+            action.setDisplayShowCustomEnabled(true);
+            action.setCustomView(R.layout.search_bar);
+            action.setDisplayShowTitleEnabled(false);
+            edtSeach = (EditText)action.getCustomView().findViewById(R.id.edtSearch);
+            edtSeach.setOnEditorActionListener(new TextView.OnEditorActionListener() {
+                @Override
+                public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
+                    if (actionId == EditorInfo.IME_ACTION_SEARCH) {
+                        doSearch();
+                        return true;
+                    }
+                    return false;
+                }
+            });
+
+            edtSeach.requestFocus();
+            InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+            imm.showSoftInput(edtSeach, InputMethodManager.SHOW_IMPLICIT);
+            mSearchAction.setIcon(getResources().getDrawable(R.drawable.icon_soundcloud));
+            mSearchAction.setOnMenuItemClickListener(new MenuItem.OnMenuItemClickListener() {
+                @Override
+                public boolean onMenuItemClick(MenuItem item) {
+                    new GetDataTask().execute(edtSeach.getText().toString());
+                    return true;
+                }
+            });
+            isSearchOpened = true;
+        }
+    }
+
+    private void doSearch() {
+        //new GetDataTask().execute(keyword);
+        Log.d("Tuananh","ThaiBinh");
     }
 }
