@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\pre-dexed\debug\classes-014ba5b4aaad1fd731da1992c70d728d66ce447c.jar" />
+    </item>
+    <item
+        jar="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\exploded-aar\SuDungThuVien\dBPullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4d3a6c3a735bba989f5848e05dba9b1a92984e51">
+        <dex dex="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\pre-dexed\debug\classes-73fd89b1ee3c9996e33ede29793973032b2a2a46.jar" />
+    </item>
+    <item
+        jar="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-47418352bc8c2d142b7141cc083e6a018f6594d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\NguyenAnh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-29d7ba38716be9fec8311d2941aaf2345e4600ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\NguyenAnh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-aa4c3d6a96420b1a1259d079d123eafe845fe4af.jar" />
+    </item>
+    <item
+        jar="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\pre-dexed\debug\classes-3a1064277eab038c01e26f3615f7360cbf44c160.jar" />
+    </item>
+    <item
+        jar="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-45caf1f77e9d16f2d3735f258efe2280a7591514.jar" />
+    </item>
+    <item
+        jar="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\build\intermediates\pre-dexed\debug\classes-ea51c2908937c69cd3b9ad9222dc9078d93d8f9c.jar" />
+    </item>
+
+</items>
