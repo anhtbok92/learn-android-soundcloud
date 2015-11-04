@@ -9,8 +9,123 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2453735-f5da-4d85-97c9-1e5660f5805c" name="Default" comment="" />
-    <ignored path="SuDungThuVien.iws" />
+    <list default="true" id="a0293604-637e-4bcf-aba1-a77c73f1298b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn-android-soundcloud.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/search_bar.xml" />
+      <change type="DELETED" beforePath="E:\android\learn-android-soundcloud\app\src\main\res\drawable\ic_action_search.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\android\learn-android-soundcloud\dBPullToRefresh\build\intermediates\manifest\tmp\manifestMerger8453609086528087482.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/outputs/aar/dBPullToRefresh-debug.aar" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/outputs/aar/dBPullToRefresh-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/outputs/aar/dBPullToRefresh-release.aar" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/outputs/aar/dBPullToRefresh-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/dBPullToRefresh.iml" afterPath="$PROJECT_DIR$/dBPullToRefresh/dBPullToRefresh.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_0_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/drawable/indicator_bg_bottom.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/drawable/indicator_bg_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/drawable/indicator_bg_top.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/drawable/indicator_bg_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/mergeAssets/release/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/mergeResourcesandroidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/mergeResourcesandroidTest/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/packageResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/packageResourcesdebug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/packageResourcesrelease/merger.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/incremental/packageResourcesrelease/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/layout/pull_to_refresh_header_horizontal.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/layout/pull_to_refresh_header_horizontal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/layout/pull_to_refresh_header_vertical.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/layout/pull_to_refresh_header_vertical.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_in_from_bottom.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_in_from_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/anim/slide_in_from_bottom.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/anim/slide_in_from_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_in_from_top.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_in_from_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/anim/slide_in_from_top.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/anim/slide_in_from_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_out_to_bottom.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_out_to_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/anim/slide_out_to_bottom.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/anim/slide_out_to_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/anim/slide_out_to_top.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/anim/slide_out_to_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_0_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ar/values-ar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ar/values-ar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ar/values-ar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-cs/values-cs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-cs/values-cs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-cs/values-cs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-de/values-de.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-de/values-de.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-de/values-de.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-de/values-de.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-de/values-de.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-de/values-de.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-es/values-es.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-es/values-es.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-es/values-es.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-es/values-es.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-es/values-es.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-es/values-es.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-fi/values-fi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-fi/values-fi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-fi/values-fi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-fr/values-fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-fr/values-fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-fr/values-fr.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-he/values-he.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-he/values-he.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-he/values-he.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-he/values-he.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-he/values-he.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-he/values-he.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-it/values-it.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-it/values-it.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-it/values-it.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-it/values-it.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-it/values-it.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-it/values-it.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-iw/values-iw.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-iw/values-iw.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-iw/values-iw.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ja/values-ja.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ja/values-ja.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ja/values-ja.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ko/values-ko.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ko/values-ko.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ko/values-ko.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-nl/values-nl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-nl/values-nl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-nl/values-nl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-pl/values-pl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-pl/values-pl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-pl/values-pl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-pt-rBR/values-pt-rBR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-pt-rBR/values-pt-rBR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-pt-rBR/values-pt-rBR.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-pt/values-pt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-pt/values-pt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-pt/values-pt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ro/values-ro.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ro/values-ro.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ro/values-ro.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-ru/values-ru.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-ru/values-ru.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-ru/values-ru.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values-zh/values-zh.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values-zh/values-zh.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values-zh/values-zh.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/debug/res/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/bundles/release/res/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/dBPullToRefresh/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="learn-android-soundcloud.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,133 +147,72 @@
     </system>
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="SuDungThuVien" />
+    <favorites_list name="learn-android-soundcloud" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3716667">
-              <caret line="83" column="86" selection-start-line="83" selection-start-column="86" selection-end-line="83" selection-end-column="86" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BikeFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/BikeFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="54" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_bike.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_bike.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DrawerMenuItemAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/DrawerMenuItemAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="94" selection-start-line="48" selection-start-column="94" selection-end-line="48" selection-end-column="94" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
-                <element signature="e#872#873#0" expanded="true" />
-                <element signature="e#903#904#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout_drawer_menu_item.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_drawer_menu_item.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DrawerMenuItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/DrawerMenuItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+            <state vertical-scroll-proportion="-11.137931">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="45" selection-start-line="11" selection-start-column="3" selection-end-line="14" selection-end-column="45" />
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toolbar.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml">
+      <file leaf-file-name="menu_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="e#512#537#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search_bar.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/search_bar.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state vertical-scroll-proportion="-4.6896553">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2356021">
+              <caret line="291" column="12" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2733#2750#0" expanded="true" />
+                <element signature="e#2752#2769#0" expanded="true" />
+                <element signature="e#10952#11336#0" expanded="true" />
+                <element signature="e#11335#11336#0" expanded="true" />
+                <element signature="e#11702#11975#0" expanded="true" />
+                <element signature="e#11974#11975#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -168,11 +222,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="valueResourceFile" />
-        <option value="layoutResourceFile_vertical" />
         <option value="Class" />
+        <option value="Interface" />
+        <option value="resourceFile" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -180,7 +237,7 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="SuDungThuVien" />
+              <option name="name" value="learn-android-soundcloud" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -191,12 +248,12 @@
                 <option name="path" value="$PROJECT_DIR$/app" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":dBPullToRefresh" />
-                <option name="path" value="$PROJECT_DIR$/dBPullToRefresh" />
+                <option name="name" value="learn-android-soundcloud" />
+                <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="SuDungThuVien" />
-                <option name="path" value="$PROJECT_DIR$" />
+                <option name="name" value=":dBPullToRefresh" />
+                <option name="path" value="$PROJECT_DIR$/dBPullToRefresh" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -213,17 +270,17 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'SuDungThuVien'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'learn-android-soundcloud'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'SuDungThuVien'." />
+                <option name="description" value="Displays all dependencies declared in root project 'learn-android-soundcloud'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'SuDungThuVien'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'learn-android-soundcloud'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -238,22 +295,22 @@
                 <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'SuDungThuVien'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'learn-android-soundcloud'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'SuDungThuVien'." />
+                <option name="description" value="Displays the sub-projects of root project 'learn-android-soundcloud'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'SuDungThuVien'." />
+                <option name="description" value="Displays the properties of root project 'learn-android-soundcloud'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'SuDungThuVien' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'learn-android-soundcloud' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -647,17 +704,17 @@
                 <option name="name" value="prepareDebugUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare learn-android-soundcloud:dBPullToRefresh:unspecified" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareLearnAndroidSoundcloudDBPullToRefreshUnspecifiedLibrary" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareReleaseDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareReleaseUnitTestDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare SuDungThuVien:dBPullToRefresh:unspecified" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareSuDungThuVienDBPullToRefreshUnspecifiedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1247,17 +1304,17 @@
                 <option name="name" value="prepareDebugUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare learn-android-soundcloud:dBPullToRefresh:unspecified" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareLearnAndroidSoundcloudDBPullToRefreshUnspecifiedLibrary" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareReleaseDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareReleaseUnitTestDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare SuDungThuVien:dBPullToRefresh:unspecified" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareSuDungThuVienDBPullToRefreshUnspecifiedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1909,7 +1966,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien" value="5768407884058" />
+        <entry key="E:\android\learn-android-soundcloud" value="5768407884058" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2318,35 +2375,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/custom_layout.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackObject.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/D3TrackerObject.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/SoundCloudUser.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackerObjectsParser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/GetDataTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/GetDataTaskCommunity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/IDBTaskListener.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_track.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackAdapter.java" />
-        <option value="$PROJECT_DIR$/dBPullToRefresh/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/dBPullToRefresh/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/dBPullToRefresh/src/main/res/values/dimens.xml" />
-        <option value="$PROJECT_DIR$/dBPullToRefresh/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_drawer_menu_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/DrawerMenuAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_bike.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/NavDrawerItem.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_row.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_navigation_drawer.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/NavigationDrawerAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/DrawerMenuItemAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/DrawerMenuItem.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/BikeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/search_bar.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
@@ -2359,7 +2394,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -2370,7 +2405,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2382,170 +2417,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sudungthuvien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
@@ -2553,7 +2424,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
+              <option name="myItemId" value="learn-android-soundcloud" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2563,11 +2434,31 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
+              <option name="myItemId" value="learn-android-soundcloud" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-android-soundcloud" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dBPullToRefresh" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn-android-soundcloud" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2575,31 +2466,35 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
+              <option name="myItemId" value="menu" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
+              <option name="myItemId" value="learn-android-soundcloud" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dBPullToRefresh" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
+              <option name="myItemId" value="learn-android-soundcloud" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dBPullToRefresh" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2613,17 +2508,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dBPullToRefresh" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
+              <option name="myItemId" value="learn-android-soundcloud" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2631,13 +2516,13 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
+              <option name="myItemId" value="learn-android-soundcloud" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2645,27 +2530,17 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemId" value="sudungthuvien" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuDungThuVien" />
+              <option name="myItemId" value="learn-android-soundcloud" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2679,30 +2554,21 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="android.project.structure.last.selected" value="dBPullToRefresh" />
-    <property name="android.project.structure.proportion" value="0.15" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.141.102:5555" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_4_API_19" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/dBPullToRefresh/src/main/res/drawable" />
-    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\src\main\res\layout" />
-      <recent name="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\src\main\res\drawable" />
-      <recent name="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\dBPullToRefresh\src\main\res\drawable" />
-      <recent name="C:\Users\NguyenAnh\Desktop\BeatsMusicChallenge-master\SuDungThuVien\app\libs" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="vn.vietnamlab.nguyentuananh.sudungthuvien" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\android\learn-android-soundcloud\app\src\main\res\layout" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
@@ -2893,387 +2759,99 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c2453735-f5da-4d85-97c9-1e5660f5805c" name="Default" comment="" />
-      <created>1446168066939</created>
+      <changelist id="a0293604-637e-4bcf-aba1-a77c73f1298b" name="Default" comment="" />
+      <created>1446600366871</created>
       <option name="number" value="Default" />
-      <updated>1446168066939</updated>
+      <updated>1446600366871</updated>
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287234" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34333333" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3319149" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287234" sideWeight="0.4968017" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/MainActivity.java</url>
+          <line>326</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="78" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+        <state vertical-scroll-proportion="0.8471761">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackerObjectsParser.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-23/java/lang/Void.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="270" column="41" selection-start-line="270" selection-start-column="41" selection-end-line="270" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/D3TrackerObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/SoundCloudUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="233" column="37" selection-start-line="233" selection-start-column="37" selection-end-line="233" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/custom_layout.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dBPullToRefresh/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dBPullToRefresh/dBPullToRefresh.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dBPullToRefresh/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-23/org/json/JSONException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5405702">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackerObjectsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="270" column="41" selection-start-line="270" selection-start-column="41" selection-end-line="270" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-23/android/os/AsyncTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61461794">
-          <caret line="309" column="41" selection-start-line="309" selection-start-column="41" selection-end-line="309" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="233" column="37" selection-start-line="233" selection-start-column="37" selection-end-line="233" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_track.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55921054">
-          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35572687">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="33" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/app/libs/universal-image-loader-1.9.3.jar!/com/nostra13/universalimageloader/core/DisplayImageOptions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8067797">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/D3TrackerObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/app/libs/universal-image-loader-1.9.3.jar!/com/nostra13/universalimageloader/core/ImageLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.5329862">
-          <caret line="224" column="44" selection-start-line="224" selection-start-column="44" selection-end-line="224" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/music_note.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dBPullToRefresh/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6493056">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dBPullToRefresh/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1973466">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dBPullToRefresh/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33830845">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-23/android/widget/ImageView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0049751243">
-          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="e#280#303#0" expanded="true" />
-            <element signature="e#504#529#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-23/android/widget/ListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.33830845">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.20504385">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2222222">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/SoundCloudUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028192371">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.0.1/appcompat-v7-23.0.1-sources.jar!/android/support/v7/app/ActionBarDrawerToggle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55701756">
-          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/custom_layout.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3554007">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.39534885">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_track.xml">
-      <provider editor-type-id="android-designer">
+      <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.0.1/appcompat-v7-23.0.1-sources.jar!/android/support/v7/app/ActionBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="462" column="25" selection-start-line="462" selection-start-column="25" selection-end-line="462" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5356551">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -3282,27 +2860,41 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider editor-type-id="android-designer">
+      <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="45" selection-start-line="11" selection-start-column="3" selection-end-line="14" selection-end-column="45" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/DrawerMenuItem.java">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/custom_layout.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_bike.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3312,73 +2904,51 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6230366">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/DrawerMenuItemAdapter.java">
+    <entry file="file://$PROJECT_DIR$/dBPullToRefresh/src/main/res/drawable/ic_action_search.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="94" selection-start-line="48" selection-start-column="94" selection-end-line="48" selection-end-column="94" />
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dBPullToRefresh/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20695652">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#872#873#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#512#537#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_bike.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/search_bar.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state vertical-scroll-proportion="-4.6896553">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-23/android/widget/AdapterView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5883333">
-          <caret line="272" column="18" selection-start-line="272" selection-start-column="18" selection-end-line="272" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.0.1/appcompat-v7-23.0.1-sources.jar!/android/support/v7/app/AppCompatActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33208954">
-          <caret line="196" column="16" selection-start-line="196" selection-start-column="16" selection-end-line="196" selection-end-column="16" />
-          <folding>
-            <element signature="e#6759#6760#0" expanded="false" />
-            <element signature="e#6812#6813#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/BikeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="54" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3387,18 +2957,24 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+        <state vertical-scroll-proportion="-11.137931">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3716667">
-          <caret line="83" column="86" selection-start-line="83" selection-start-column="86" selection-end-line="83" selection-end-column="86" />
+        <state vertical-scroll-proportion="0.2356021">
+          <caret line="291" column="12" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2733#2750#0" expanded="true" />
+            <element signature="e#2752#2769#0" expanded="true" />
+            <element signature="e#10952#11336#0" expanded="true" />
+            <element signature="e#11335#11336#0" expanded="true" />
+            <element signature="e#11702#11975#0" expanded="true" />
+            <element signature="e#11974#11975#0" expanded="true" />
           </folding>
         </state>
       </provider>

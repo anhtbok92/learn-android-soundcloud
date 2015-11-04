@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/app/libs/universal-image-loader-1.9.3.jar" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/D3TrackerObject.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/SoundCloudUser.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackObject.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/vn/vietnamlab/nguyentuananh/sudungthuvien/TrackerObjectsParser.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_circle_grey.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_action_search.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_directions_bike_black_36dp.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_directions_bus_black_36dp.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_directions_car_black_36dp.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_directions_ferry_black_36dp.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_directions_subway_black_36dp.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_directions_train_black_36dp.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_download.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.jpg" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_play_arrow_white_24dp.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_profile.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_soundcloud.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/music_note.png" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_bike.xml" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_track.xml" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/dBPullToRefresh" charset="windows-1252" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

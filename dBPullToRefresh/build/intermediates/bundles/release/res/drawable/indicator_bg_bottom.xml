@@ -15,4 +15,4 @@
         android:topLeftRadius="@dimen/indicator_corner_radius"
         android:topRightRadius="@dimen/indicator_corner_radius" />
 
-</shape><!-- From: file:/C:/Users/NguyenAnh/Desktop/BeatsMusicChallenge-master/SuDungThuVien/dBPullToRefresh/src/main/res/drawable/indicator_bg_bottom.xml -->
+</shape><!-- From: file:/E:/android/learn-android-soundcloud/dBPullToRefresh/src/main/res/drawable/indicator_bg_bottom.xml -->

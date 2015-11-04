@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/NguyenAnh/Desktop/BeatsMusicChallenge-master/SuDungThuVien/dBPullToRefresh/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/E:/android/learn-android-soundcloud/dBPullToRefresh/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <string-array name="nav_drawer_labels">
         <item>@string/nav_item_home</item>

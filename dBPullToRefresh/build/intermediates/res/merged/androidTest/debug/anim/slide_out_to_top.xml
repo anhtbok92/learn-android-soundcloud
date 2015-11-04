@@ -19,4 +19,4 @@
     android:duration="@android:integer/config_longAnimTime"
     android:fromYDelta="0"
     android:toYDelta="-100%p" />
-<!-- From: file:/C:/Users/NguyenAnh/Desktop/BeatsMusicChallenge-master/SuDungThuVien/dBPullToRefresh/src/main/res/anim/slide_out_to_top.xml --><!-- From: file:/C:/Users/NguyenAnh/Desktop/BeatsMusicChallenge-master/SuDungThuVien/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml -->
+<!-- From: file:/E:/android/learn-android-soundcloud/dBPullToRefresh/src/main/res/anim/slide_out_to_top.xml --><!-- From: file:/E:/android/learn-android-soundcloud/dBPullToRefresh/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml -->

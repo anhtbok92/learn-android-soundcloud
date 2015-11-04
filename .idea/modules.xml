@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SuDungThuVien.iml" filepath="$PROJECT_DIR$/SuDungThuVien.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/dBPullToRefresh/dBPullToRefresh.iml" filepath="$PROJECT_DIR$/dBPullToRefresh/dBPullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-android-soundcloud.iml" filepath="$PROJECT_DIR$/learn-android-soundcloud.iml" />
     </modules>
   </component>
 </project>
