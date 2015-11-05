@@ -2,6 +2,7 @@ package vn.vietnamlab.nguyentuananh.sudungthuvien;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Typeface;
 import android.util.SparseBooleanArray;
 import android.view.LayoutInflater;
@@ -109,6 +110,14 @@ public class TrackAdapter extends BaseAdapter {
         } else {
             mHolder.mImgSongs.setImageResource(R.drawable.music_note);
         }
+
+        mHolder.mRootLayout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(v.getContext(), PlayMusicActivity.class);
+                mContext.startActivity(intent);
+            }
+        });
 
         return convertView;
     }
